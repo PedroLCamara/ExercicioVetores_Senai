@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\bin\Debug\net5.0\ExercicioForixiearai.exe
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\bin\Debug\net5.0\ExercicioForixiearai.deps.json
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\bin\Debug\net5.0\ExercicioForixiearai.runtimeconfig.json
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\bin\Debug\net5.0\ExercicioForixiearai.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\bin\Debug\net5.0\ExercicioForixiearai.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\bin\Debug\net5.0\ref\ExercicioForixiearai.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\bin\Debug\net5.0\ExercicioForixiearai.pdb
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\obj\Debug\net5.0\ExercicioForixiearai.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\obj\Debug\net5.0\ExercicioForixiearai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\obj\Debug\net5.0\ExercicioForixiearai.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\obj\Debug\net5.0\ExercicioForixiearai.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\obj\Debug\net5.0\ExercicioForixiearai.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\obj\Debug\net5.0\ExercicioForixiearai.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\obj\Debug\net5.0\ref\ExercicioForixiearai.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\obj\Debug\net5.0\ExercicioForixiearai.pdb
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioForixiearai\obj\Debug\net5.0\ExercicioForixiearai.genruntimeconfig.cache
